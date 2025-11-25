@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Dimensional Generator",
+  "description": "Uma ferramenta especializada para processar resultados de testes dimensionais em Excel. Ela randomiza automaticamente os valores detectados dentro das tolerâncias especificadas, mantendo rigorosamente o status de aprovação/reprovação dos resultados fora da especificação.",
+  "requestFramePermissions": []
+}
